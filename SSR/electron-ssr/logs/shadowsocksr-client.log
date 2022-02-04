@@ -1,0 +1,295 @@
+2022-02-04 10:48:53:092 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2022-02-04 10:48:53:196 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:48:54:384 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:48:54:384 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:49:01:315 [info] start download ssr
+2022-02-04 10:49:03:517 [info] ssr download success
+2022-02-04 10:50:49:866 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn01.mynode.me -p 8101 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:50:49:870 [info] pac server listen at: 127.0.0.1:2333
+2022-02-04 10:50:49:870 [info] http proxy server listen at: 127.0.0.1:12333
+2022-02-04 10:51:06:893 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:52:12:083 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:14:600 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:14:601 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:14:705 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:14:728 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:17:244 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:17:249 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:17:380 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:17:412 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:23:315 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:23:323 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:23:494 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:23:498 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:34:014 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn11.mynode.me -p 8402 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:52:35:460 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:35:468 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:36:174 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:36:174 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:36:540 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:39:062 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:39:065 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:39:183 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:39:217 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:47:067 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:48:068 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:52:48:875 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:53:06:022 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:07:026 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:16:029 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:17:032 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:42:270 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:42:271 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:42:407 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:42:429 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:43:279 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:43:281 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:44:286 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:47:481 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:56:697 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:56:701 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:56:837 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:53:56:867 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:00:039 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:01:492 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:02:130 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:02:631 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:03:198 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:03:399 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:03:841 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:04:053 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:04:320 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:15:851 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:23:734 [info] http proxy server closed.
+2022-02-04 10:54:28:759 [info] last update time: Fri Feb 04 2022 10:54:28 GMT+0800 (CST)
+2022-02-04 10:54:28:800 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2022-02-04 10:54:28:808 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:54:28:812 [info] pac server listen at: 127.0.0.1:2333
+2022-02-04 10:54:28:812 [info] http proxy server listen at: 127.0.0.1:12333
+2022-02-04 10:54:28:823 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:54:28:835 [info] next subscribe update time: Sat Feb 05 2022 10:54:28 GMT+0800 (CST)
+2022-02-04 10:54:29:168 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:29:170 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:33:368 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:35:064 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:35:866 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:36:191 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:36:482 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:36:756 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:37:000 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:37:234 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:37:475 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:37:703 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:37:954 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:54:38:969 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:42:287 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:42:301 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:42:353 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:42:395 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:42:475 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:42:540 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:46:288 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:46:384 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:46:604 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:46:708 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:46:891 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:55:47:105 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:56:01:886 [info] http proxy server closed.
+2022-02-04 10:56:06:732 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:56:06:751 [info] last update time: Fri Feb 04 2022 10:56:06 GMT+0800 (CST)
+2022-02-04 10:56:06:794 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2022-02-04 10:56:06:797 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:56:06:801 [info] pac server listen at: 127.0.0.1:2333
+2022-02-04 10:56:06:801 [info] http proxy server listen at: 127.0.0.1:12333
+2022-02-04 10:56:06:816 [info] next subscribe update time: Sat Feb 05 2022 10:56:06 GMT+0800 (CST)
+2022-02-04 10:56:07:162 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:56:07:163 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:56:07:928 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:56:07:928 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:56:41:920 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:56:41:930 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:57:19:258 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:15:493 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:15:554 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:15:587 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:15:598 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:15:672 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:15:730 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:16:735 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:16:746 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:27:447 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:29:028 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:29:067 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:29:104 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:29:118 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:29:199 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:29:268 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:30:318 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:30:329 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:33:105 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:33:108 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:58:37:443 [info] http proxy server closed.
+2022-02-04 10:59:01:630 [info] last update time: Fri Feb 04 2022 10:59:01 GMT+0800 (CST)
+2022-02-04 10:59:01:669 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2022-02-04 10:59:01:673 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 10:59:01:677 [info] pac server listen at: 127.0.0.1:2333
+2022-02-04 10:59:01:677 [info] http proxy server listen at: 127.0.0.1:12333
+2022-02-04 10:59:01:679 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:59:01:694 [info] next subscribe update time: Sat Feb 05 2022 10:59:01 GMT+0800 (CST)
+2022-02-04 10:59:02:004 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:02:006 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:02:716 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:59:02:717 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:59:13:200 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:13:224 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:13:288 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:13:320 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:13:412 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:13:442 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:14:597 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:14:609 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:17:611 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:17:614 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 10:59:38:276 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:59:38:277 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:59:38:278 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 10:59:39:045 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 10:59:39:046 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:00:10:516 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:11:144 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:11:561 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:12:881 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:12:882 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:12:882 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:12:883 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:12:885 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:12:886 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:13:179 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:13:181 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:13:300 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:15:372 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:15:374 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:15:471 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:15:502 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:25:862 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:25:863 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:25:998 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:26:040 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:34:323 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:34:427 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:43:328 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:43:329 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:43:329 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:00:43:329 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:13:182 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:13:185 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:13:407 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:13:439 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:188 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:484 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:486 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:487 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:493 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:493 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:14:494 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:18:999 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:20:091 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:21:371 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:23:969 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:23:971 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TUNNEL_CONNECTION_FAILED
+2022-02-04 11:01:23:975 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:23:976 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TUNNEL_CONNECTION_FAILED
+2022-02-04 11:01:23:978 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TUNNEL_CONNECTION_FAILED
+2022-02-04 11:01:26:275 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:26:276 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:26:603 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:01:26:621 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:56:362 [info] last update time: Fri Feb 04 2022 11:04:56 GMT+0800 (CST)
+2022-02-04 11:04:56:405 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2022-02-04 11:04:56:410 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 11:04:56:414 [info] pac server listen at: 127.0.0.1:2333
+2022-02-04 11:04:56:415 [info] http proxy server listen at: 127.0.0.1:12333
+2022-02-04 11:04:56:418 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 11:04:56:430 [info] next subscribe update time: Sat Feb 05 2022 11:04:56 GMT+0800 (CST)
+2022-02-04 11:04:56:748 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:56:749 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:57:621 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:04:57:621 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:04:58:513 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:58:551 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:58:614 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:58:662 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:58:750 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:58:763 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:59:943 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:04:59:948 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:08:767 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:18:768 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:25:245 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:25:246 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:26:366 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:26:375 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:30:703 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:30:709 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:30:896 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:30:909 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:069 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:081 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:231 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:242 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:418 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:581 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:756 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:31:941 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:32:079 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:32:253 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:32:418 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:05:32:597 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:08:07:612 [info] Register shortcut: switchSystemProxy, Ctrl+Shift+G
+2022-02-04 11:08:14:406 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 11:08:14:407 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 11:08:15:240 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:08:15:242 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:08:17:130 [info] Unregister shortcut: Ctrl+Shift+G
+2022-02-04 11:08:54:205 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:08:54:206 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TUNNEL_CONNECTION_FAILED
+2022-02-04 11:08:54:210 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:08:54:210 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TUNNEL_CONNECTION_FAILED
+2022-02-04 11:08:54:211 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_TUNNEL_CONNECTION_FAILED
+2022-02-04 11:08:58:760 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:08:58:788 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:08:59:313 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:08:59:607 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:09:00:677 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:09:00:678 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:09:36:939 [info] http proxy server closed.
+2022-02-04 11:12:09:470 [info] last update time: Fri Feb 04 2022 11:12:09 GMT+0800 (CST)
+2022-02-04 11:12:09:503 [info] Register shortcut: toggleWindow, Ctrl+Shift+W
+2022-02-04 11:12:09:506 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn15.mynode.me -p 8502 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 11:12:09:510 [info] pac server listen at: 127.0.0.1:2333
+2022-02-04 11:12:09:510 [info] http proxy server listen at: 127.0.0.1:12333
+2022-02-04 11:12:09:515 [error] Unhandled Rejection at: Promise [object Promise], reason: Error: net::ERR_CONNECTION_REFUSED
+2022-02-04 11:12:09:534 [info] next subscribe update time: Sat Feb 05 2022 11:12:09 GMT+0800 (CST)
+2022-02-04 11:12:09:599 [error] 2022-02-04 11:12:09 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2022-02-04 11:12:09:599 [error] 2022-02-04 11:12:09 INFO     local.py:50 local start with protocol[origin] password [passwd] method [rc4-md5] obfs [http_simple] obfs_param [22793-4;GzEc7U2abX0;.download.microsoft.com]
+2022-02-04 11:12:09 INFO     local.py:54 starting local at 127.0.0.1:1080
+2022-02-04 11:12:09 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
+2022-02-04 11:12:10:501 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:12:10:502 [error] Unhandled Rejection at: Promise [object Promise], reason: SentryError: HTTP Error (429)
+2022-02-04 11:20:38:785 [info] Kill client
+2022-02-04 11:20:38:791 [info] run command: python /home/david/.config/electron-ssr/shadowsocksr/shadowsocks/local.py -s cn06.mynode.me -p 8202 -k ****** -m rc4-md5 -O origin -o http_simple -g 22793-4;GzEc7U2abX0;.download.microsoft.com -b 127.0.0.1 -l 1080
+2022-02-04 11:20:38:813 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:815 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:818 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:820 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:823 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:825 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:825 [error] http proxy server connect error: Error: Socket Closed
+2022-02-04 11:20:38:842 [error] 2022-02-04 11:20:38 INFO     util.py:85 loading libcrypto from libcrypto.so.1.1
+
+2022-02-04 11:20:38:843 [error] 2022-02-04 11:20:38 INFO     local.py:50 local start with protocol[origin] password [passwd] method [rc4-md5] obfs [http_simple] obfs_param [22793-4;GzEc7U2abX0;.download.microsoft.com]
+2022-02-04 11:20:38 INFO     local.py:54 starting local at 127.0.0.1:1080
+2022-02-04 11:20:38 INFO     asyncdns.py:324 dns server: [('127.0.0.53', 53)]
+
