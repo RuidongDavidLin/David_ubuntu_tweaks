@@ -1,0 +1,29 @@
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="d" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.23812032"/>
+  </filter>
+  <linearGradient id="b" x1="9.2603" x2="9.2603" y1="-.26249" y2="15.612" gradientTransform="translate(-.79384 .79164)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#2e323e" offset="0"/>
+   <stop stop-color="#505664" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="0" y1="54" y2="10" gradientTransform="scale(1)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dedede" offset="0"/>
+   <stop stop-color="#ececec" offset="1"/>
+  </linearGradient>
+  <filter id="a" x="-.059999" y="-.059999" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.14551797"/>
+  </filter>
+ </defs>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" filter="url(#d)" opacity=".25" stroke-width=".96299" style="paint-order:stroke markers fill"/>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" fill="url(#b)" stroke-width=".96299" style="paint-order:stroke markers fill"/>
+ <g transform="translate(.14597 .15844)" filter="url(#a)" opacity=".15" stroke-width=".26458">
+  <path d="m8.3205 5.3977a2.9104 2.9104 0 0 0-2.9104 2.9104 2.9104 2.9104 0 0 0 2.9104 2.9104 2.9104 2.9104 0 0 0 2.9104-2.9104 2.9104 2.9104 0 0 0-2.9104-2.9104m0.03824 0.25166a2.6458 2.6458 0 0 1 2.6458 2.6458 2.6458 2.6458 0 0 1-2.6458 2.6458 2.6458 2.6458 0 0 1-2.6458-2.6458 2.6458 2.6458 0 0 1 2.6458-2.6458"/>
+  <path d="m9.908 8.1657-2.6458 1.9944v-3.7041z"/>
+ </g>
+ <g transform="translate(.14597 .15844)" stroke-width=".26458">
+  <path d="m8.3205 5.3977a2.9104 2.9104 0 0 0-2.9104 2.9104 2.9104 2.9104 0 0 0 2.9104 2.9104 2.9104 2.9104 0 0 0 2.9104-2.9104 2.9104 2.9104 0 0 0-2.9104-2.9104m0.03824 0.25166a2.6458 2.6458 0 0 1 2.6458 2.6458 2.6458 2.6458 0 0 1-2.6458 2.6458 2.6458 2.6458 0 0 1-2.6458-2.6458 2.6458 2.6458 0 0 1 2.6458-2.6458" fill="#ececec"/>
+  <path d="m9.908 8.1657-2.6458 1.9944v-3.7041z" fill="#edeef8"/>
+ </g>
+ <path transform="scale(.26458)" d="m7.752 18a28 28 0 0 0-1.8965 4h3.1445v-4h-1.248zm47.248 0v4h3.1504a28 28 0 0 0-1.9043-4h-1.2461zm-49.824 6a28 28 0 0 0-0.17578 0.65625v3.3438h4v-4h-3.8242zm49.824 0v4h4v-3.4082a28 28 0 0 0-0.16797-0.5918h-3.832zm-50 6v4h4v-4h-4zm50 0v4h4v-4h-4zm-50 6v3.3438a28 28 0 0 0 0.17578 0.65625h3.8242v-4h-4zm50 0v4h3.8242a28 28 0 0 0 0.17578-0.65625v-3.3438h-4zm-49.145 6a28 28 0 0 0 1.8965 4h1.248v-4h-3.1445zm49.145 0v4h1.248a28 28 0 0 0 1.8965-4h-3.1445z" fill="url(#c)"/>
+</svg>
